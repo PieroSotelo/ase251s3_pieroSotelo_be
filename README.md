@@ -33,6 +33,6 @@ el código llegamos al final para ejecutar, en la terminal cuando lo ejecutemos 
 luego de ver eso, esta confirmando que nuestro código ya esta corriendo y podremos verlo aca: 
 
 
-http://localhost:8080/PrimerHolaMundo
+http://localhost:8080/holaMundo
 
 y seria todo lo que tenemos que hacer para realizar nuestro primer Hola Mundo con Spring Boot
